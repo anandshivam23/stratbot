@@ -86,3 +86,5 @@ Demonstrating API integration with Flask
 
 StratBot demonstrates the integration of AI APIs with web applications using Flask.
 It combines intelligent response generation with focused domain filtering to create a practical, strategy-driven chatbot experience.
+
+<img width="1919" height="895" alt="Screenshot 2026-02-16 224030" src="https://github.com/user-attachments/assets/8d8c2cbd-698f-4c72-a9cb-078c19442d76" />
